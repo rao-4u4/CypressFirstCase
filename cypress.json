@@ -1,0 +1,14 @@
+{
+"reporter":"mochawesome",
+"reporterOptions":{
+     "charts" : true,
+     "overwrites":false,
+     "html": true,
+     "json":true,
+     "reportDir" : "cypress/Reports"
+},
+
+     "downloadsFolder": "cypress/downloads"
+   
+   
+}
